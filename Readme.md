@@ -1,4 +1,6 @@
 # Assignment 1
+## Output of print(score)
+[0.030927059759083202, 0.9912]
 
 ### Convolutions
 Convolution is the process of applying a kernel to an image to extract the features from the image.
